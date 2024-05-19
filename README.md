@@ -1,3 +1,6 @@
+#this website is host on netlify
+https://haseeb-react-universitywebsite.netlify.app
+
 # React + Vite
 
 to run the project
